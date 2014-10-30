@@ -1,7 +1,7 @@
 Icon Collection
 ===============
 
-Repository of free icon services, icon packages, etc; for web design and graphic design. There are many more, I know. But it's my selection. If you think I'm missing a very important one, please, [tell me](mailto:bravo@graficos.net), or collaborate wit me! Thanks!
+Repository of free icon services, icon packages, etc; for web design and graphic design. There are many more, I know. But it's my selection. If you think I'm missing a very important one, please, [tell me](mailto:bravo@graficos.net), or collaborate with me! Thanks!
 - - -
 
 ##Services: Custom packs, Apps...
