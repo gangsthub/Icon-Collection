@@ -1,4 +1,4 @@
-Icon-Collection
+Icon Collection
 ===============
 
 Repository of free icon services, icon packages, etc; for web design and graphic design. There are many more, I know. But it's my selection. If you think I miss a very important one, please, [tell me](bravo@graficos.net).
