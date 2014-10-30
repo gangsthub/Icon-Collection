@@ -25,11 +25,11 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 * [Flaticon](http://www.flaticon.com/): (SVG, EPS, PSD or PNG).
 * [Coucou](http://www.coucouicons.com/): (SVG, EPS, PSD or PNG).
 
+# Web-Font Generator
+
+* [Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator) :star:
+
 #Favicon Generators / Icon Generators
 
 * http://favicon-generator.org/
 * http://fav.ninja/
-
-# Web-Font Generator
-
-*[Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator) :star:
