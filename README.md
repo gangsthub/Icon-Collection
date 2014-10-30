@@ -1,17 +1,17 @@
 Icon Collection
 ===============
 
-Repository of free icon services, icon packages, etc; for web design and graphic design. There are many more, I know. But it's my selection. If you think I miss a very important one, please, [tell me](mailto:bravo@graficos.net).
+Repository of free icon services, icon packages, etc; for web design and graphic design. There are many more, I know. But it's my selection. If you think I'm missing a very important one, please, [tell me](mailto:bravo@graficos.net).
 - - -
 
-##Services: Custom packs, apps...
+##Services: Custom packs Apps...
 
 * [Icomoon App](https://icomoon.io/) :star:
 * [Fontello](http://fontello.com/)
+* [Font Awesome.](http://fontawesome.io/icons/)
 
 ##Font Icons or Web-fonts: CSS/SVG, CSS Sprites...
 
-* [Font Awesome.](http://fontawesome.io/icons/)
 * [The Noun Project](http://thenounproject.com/) :star:
 * [Typicons](http://typicons.com/)
 * [Marka](http://fian.my.id/marka/icons.html)
