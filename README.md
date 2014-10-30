@@ -6,8 +6,8 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 
 ##Services: Custom packs, apps...
 
-* [Icomoon](https://icomoon.io/)
-* [Fontello](http://fontello.com/) :star:
+* [Icomoon App](https://icomoon.io/) :star:
+* [Fontello](http://fontello.com/)
 
 ##Font Icons or Web-fonts: CSS/SVG, CSS Sprites...
 
@@ -33,3 +33,4 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 
 * http://favicon-generator.org/
 * http://fav.ninja/
+
