@@ -7,10 +7,10 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 ##Services: Custom packs, Apps...
 
 * [Icomoon App](https://icomoon.io/) :star:
-* [Transformicons](http://www.transformicons.com/builder.html) :star:
+* [Transformicons](http://www.transformicons.com/builder.html): Animated icons (HTML5+CSS3+JS) :star: :star:
 * [Fontello](http://fontello.com/)
 * [Font Awesome.](http://fontawesome.io/icons/)
-* [Icons8](http://icons8.com) OS packs
+* [Icons8](http://icons8.com): OS packs.
 
 ##Font Icons or Web-fonts: CSS/SVG, CSS Sprites...
 
@@ -20,7 +20,7 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 * [Hellium Icon Set](http://tympanus.net/codrops/2014/10/10/freebie-helium-icon-set/)
 * [Material Design Icons](https://github.com/google/material-design-icons/releases/tag/1.0.0): (SVG and CSS sprites, PNG, Hi-dpi versions).
 * [Weather 7 Icon Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set).
-* [Icono](https://saeedalipoor.github.io/icono/) (pure CSS)
+* [Icono](https://saeedalipoor.github.io/icono/): pure CSS.
 
 ##Vector or Pixel: AI, EPS, SVG, PSD, PNG...
 
