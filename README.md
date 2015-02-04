@@ -7,6 +7,7 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 ##Services: Custom packs, Apps...
 
 * [Icomoon App](https://icomoon.io/) :star:
+* [Transformicons](http://www.transformicons.com/builder.html) :star:
 * [Fontello](http://fontello.com/)
 * [Font Awesome.](http://fontawesome.io/icons/)
 * [Icons8](http://icons8.com) OS packs
