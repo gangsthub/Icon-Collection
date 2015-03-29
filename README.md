@@ -27,6 +27,7 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 * [Linea.io](http://linea.io/): (AI, PSD).
 * [Flaticon](http://www.flaticon.com/): (SVG, EPS, PSD or PNG).
 * [Coucou](http://www.coucouicons.com/): (SVG, EPS, PSD or PNG).
+* [77 Essential Icons Pattern](https://dribbble.com/shots/1938807-77-Essential-Icons-Free-Download): (AI, EPS, PDF, PNG, PSD, SVG and icon font).
 
 ##Web-Font Generator
 
