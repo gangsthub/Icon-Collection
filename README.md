@@ -17,7 +17,7 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 * [The Noun Project](http://thenounproject.com/): Normally, "CC BY 3.0".
 * [Typicons](http://typicons.com/): (font + SVG).
 * [Marka](http://fian.my.id/marka/)
-* [Material Design Icons](https://github.com/google/material-design-icons/releases/tag/1.0.0): (SVG and CSS sprites, PNG, Hi-dpi versions).
+* [Material Design Icons](https://github.com/google/material-design-icons/releases/): (SVG and CSS sprites, PNG, Hi-dpi versions). Alt: [Developers Guide](http://google.github.io/material-design-icons/).
 * [Weather 7 Icon Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set): (font).
 * [Icono](https://saeedalipoor.github.io/icono/): pure CSS.
 
