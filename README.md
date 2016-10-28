@@ -2,6 +2,9 @@ Icon Collection
 ===============
 
 Repository of free icon services, icon packages, etc; for web design and graphic design. There are many more, I know. But it's my selection. If you think I'm missing a very important one, please, [tell me](mailto:bravo@graficos.net), or collaborate with me! Thanks!
+
+Note: Those with a :star: are my favourite picks.
+
 - - -
 
 ##Services: Custom packs, Apps...
@@ -21,6 +24,10 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 * [Weather 7 Icon Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set): (font).
 * [Icono](https://saeedalipoor.github.io/icono/): pure CSS.
 
+##Only CSS
+
+* [CSS ICON](http://cssicon.space/#/) :star:
+
 ##Vector or Pixel: AI, EPS, SVG, PSD, PNG...
 
 * [Linea.io](http://linea.io/): (AI, PSD).
@@ -37,4 +44,3 @@ Repository of free icon services, icon packages, etc; for web design and graphic
 
 * http://favicon-generator.org/
 * http://fav.ninja/
-
