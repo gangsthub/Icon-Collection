@@ -22,11 +22,11 @@ __Note__: Those with a :star: are my favourite picks.
 * [Marka](http://fian.my.id/marka/)
 * [Material Design Icons](https://github.com/google/material-design-icons/releases/): (SVG and CSS sprites, PNG, Hi-dpi versions). Alt: [Developers Guide](http://google.github.io/material-design-icons/).
 * [Weather 7 Icon Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set): (font).
-* [Icono](https://saeedalipoor.github.io/icono/): pure CSS.
 
 ##Only CSS
 
 * [CSS ICON](http://cssicon.space/#/) :star:
+* [Icono](https://saeedalipoor.github.io/icono/)
 
 ##Vector or Pixel: AI, EPS, SVG, PSD, PNG...
 
