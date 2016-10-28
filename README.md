@@ -10,8 +10,8 @@ __Note__: Those with a :star: are my favourite picks.
 ##Services: Custom packs, Apps...
 
 * [Icomoon App](https://icomoon.io/) :star:
-* [Transformicons](http://www.transformicons.com/builder.html): Animated icons (HTML5+CSS3+JS) :star:
-* [Fontello](http://fontello.com/): (SVG and font). :star:
+* [Transformicons](http://www.transformicons.com/builder.html): Animated icons (HTML5+CSS3+JS)
+* [Fontello](http://fontello.com/): (SVG and font).
 * [Font Awesome.](http://fontawesome.io/icons/)
 * [Icons8](http://icons8.com): OS packs.
 
@@ -42,5 +42,6 @@ __Note__: Those with a :star: are my favourite picks.
 
 ##Favicon Generators / Icon Generators
 
+* [Iconifier](http://iconifier.net/) :star:
 * http://favicon-generator.org/
 * http://fav.ninja/
